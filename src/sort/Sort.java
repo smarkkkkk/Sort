@@ -2,6 +2,8 @@ package sort;
 
 public class Sort {
 	
+	/**This is v1.1 version.**/
+	
 	public void swap(int[] array,int i,int j){
 		int temp = array[i];
 		array[i] = array[j];
